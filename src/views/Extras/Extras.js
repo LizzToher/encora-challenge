@@ -12,9 +12,9 @@ export const Extras = () => {
   };
 
   const handleOnClickNext = () => {
+    navigate("/download-resume");      
     console.log(extrainfo);
     localStorage.setItem("extrainfo", JSON.stringify(extrainfo));
-    navigate("/download-resume");
   };
 
   const [extrainfo, setExtraInfo] = useState({
@@ -172,4 +172,6 @@ export const Extras = () => {
       <Footer />
     </main>
   );
-};
+}
+
+         
