@@ -12,7 +12,7 @@ export const Extras = () => {
   };
 
   const handleOnClickNext = () => {
-    navigate("/download-cv");      
+    navigate("/download-resume");      
     console.log(extrainfo);
     localStorage.setItem('extrainfo',JSON.stringify(extrainfo)); 
     };
@@ -160,13 +160,4 @@ export const Extras = () => {
   );
 }
 
-            <div className={module.navContainer}>
-              <button className={module.btnNav} onClick={handleOnClickBack}>BACK</button>
-              <button type="submit" className={module.btnNav} onClick={handleOnClickNext}>CREATE RESUME</button>
-            </div>
-            </form>
-            </section>
-            <Footer />
-            </main>
-         )
-         }
+         
