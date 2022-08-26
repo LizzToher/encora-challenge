@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/encora-challenge.git/static/css/main.104bf1f0.css",
+    "main.js": "/encora-challenge.git/static/js/main.a40abcd4.js",
+    "static/media/Personal-Project.gif": "/encora-challenge.git/static/media/Personal-Project.55831604d0c83f791c4e.gif",
+    "static/media/Landing-Illustration.gif": "/encora-challenge.git/static/media/Landing-Illustration.5955bba74158cae2f5c0.gif",
+    "static/media/Work-Experience.gif": "/encora-challenge.git/static/media/Work-Experience.9df70ddb8e01abae2b12.gif",
+    "static/media/Background-2.png": "/encora-challenge.git/static/media/Background-2.49cbc7b7dde6aa03824b.png",
+    "static/media/Background.png": "/encora-challenge.git/static/media/Background.99a6c774585228c3c2d8.png",
+    "static/media/Rectangle1.png": "/encora-challenge.git/static/media/Rectangle1.b1e821d547f6ede271ba.png",
+    "static/media/Rectangle3.png": "/encora-challenge.git/static/media/Rectangle3.6f9c685917eb5ac2a25f.png",
+    "static/media/Rectangle2.png": "/encora-challenge.git/static/media/Rectangle2.4da294379d5205e7aaa9.png",
+    "static/media/Money Illustration.png": "/encora-challenge.git/static/media/Money Illustration.2e3e71ca96baae9e1e18.png",
+    "static/media/Greeting Illustration.png": "/encora-challenge.git/static/media/Greeting Illustration.dabc58c9a0490001b215.png",
+    "static/media/Write Illustration.png": "/encora-challenge.git/static/media/Write Illustration.8f6fb4bddb9b8110b4a1.png",
+    "index.html": "/encora-challenge.git/index.html",
+    "main.104bf1f0.css.map": "/encora-challenge.git/static/css/main.104bf1f0.css.map",
+    "main.a40abcd4.js.map": "/encora-challenge.git/static/js/main.a40abcd4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.104bf1f0.css",
+    "static/js/main.a40abcd4.js"
+  ]
+}
